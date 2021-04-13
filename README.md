@@ -3,14 +3,6 @@
 
 ![Alt text]( https://user-images.githubusercontent.com/56252933/113469488-82b14800-946b-11eb-905f-d6a7115d1ad1.png "Park.ai")
 
-# TEAM MEMBERS : 
-* [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
-
-* [SANKOJU MANASA](sankojumanasa2002@gmail.com)
-
-* [RIYA PATRO](riya.patro@s.amity.edu)
-
-* [BANDI PAVAN KUMAR](bandi.kumar@s.amity.edu)
 
 # Overview
 
